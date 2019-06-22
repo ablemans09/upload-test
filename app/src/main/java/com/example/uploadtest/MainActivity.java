@@ -9,8 +9,6 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-// jgkim-master 1
-// jgkim-master 2
 public class MainActivity extends AppCompatActivity {
 
     @Override
