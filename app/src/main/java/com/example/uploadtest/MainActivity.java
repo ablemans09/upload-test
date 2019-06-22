@@ -10,6 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 // push from jgkim-master
+// push from master2
 // push from master
 public class MainActivity extends AppCompatActivity {
 
