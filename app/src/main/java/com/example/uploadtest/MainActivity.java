@@ -10,7 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-// push from Dev-jgkim
+// push from Dev-jgkim2
 // push from Dev-jgkim
 // push from master8
 // push from master7
