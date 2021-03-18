@@ -12,4 +12,6 @@ public class test3 {
     // master 2
 
     // o-test2
+
+    // feature/test
 }
